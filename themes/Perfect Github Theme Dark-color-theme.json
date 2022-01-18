@@ -641,7 +641,7 @@
 		{
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#79C0FF"
 			}
 		},
 		{
@@ -816,7 +816,7 @@
 				"keyword.operator.noexcept"
 			],
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#FF7B72"
 			}
 		},
 		{
@@ -952,7 +952,7 @@
 		{
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#79C0FF"
 			}
 		},
 		{
@@ -1051,7 +1051,7 @@
 				"variable.other.enummember"
 			],
 			"settings": {
-				"foreground": "#4FC1FF"
+				"foreground": "#79C0FF"
 			}
 		},
 		{
@@ -1119,13 +1119,13 @@
 		{
 			"scope": "constant.character",
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#79C0FF"
 			}
 		},
 		{
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#D7BA7D"
+				"foreground": "#79C0FF"
 			}
 		},
 		{
