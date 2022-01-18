@@ -10,3 +10,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Added
 - UX themes
 - Editor themes
+
+## [0.0.2] - 2022-01-17
+### Fixed
+- Incorrect coloring for storage type keywords
+- Updated `package.json` to contain the most recent/proper information
