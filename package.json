@@ -1,0 +1,21 @@
+{
+    "name": "perfect-github-theme",
+    "displayName": "Perfect Github Theme",
+    "description": "Exact copy of Github's color theme for Visual Studio Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Perfect Github Theme (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Perfect Github Theme Dark-color-theme.json"
+            }
+        ]
+    }
+}
