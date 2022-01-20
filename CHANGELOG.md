@@ -15,3 +15,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Fixed
 - Incorrect coloring for storage type keywords
 - Updated `package.json` to contain the most recent/proper information
+
+## [0.0.3] - 2022-01-19
+### Changed
+- Main red color is now slightly more pink (easier on the eyes and looks better overall)
+- Small fixes to the file structure to the project
+- Added extension icon
+- Started minifying the theme file (cleaning it up)
+- Removed template files (thanks to @MousieDev)

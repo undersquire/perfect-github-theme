@@ -608,7 +608,7 @@
 		{
 			"scope": [
 				"meta.embedded",
-				"source.groovy.embedded"
+				"source.groovy.embedded",
 			],
 			"settings": {
 				"foreground": "#D4D4D4"
@@ -807,7 +807,7 @@
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#ff7291"
 			}
 		},
 		{
@@ -816,7 +816,7 @@
 				"keyword.operator.noexcept"
 			],
 			"settings": {
-				"foreground": "#FF7B72"
+				"foreground": "#ff7291"
 			}
 		},
 		{
@@ -878,25 +878,10 @@
 			}
 		},
 		{
-			"scope": "keyword",
-			"settings": {
-				"foreground": "#FF7B72"
-			}
-		},
-		{
-			"scope": "keyword.control",
-			"settings": {
-				"foreground": "#FF7B72"
-			}
-		},
-		{
-			"scope": "keyword.operator",
-			"settings": {
-				"foreground": "#FF7B72"
-			}
-		},
-		{
 			"scope": [
+				"keyword",
+				"keyword.control",
+				"keyword.operator",
 				"keyword.operator.new",
 				"keyword.operator.expression",
 				"keyword.operator.cast",
@@ -906,16 +891,11 @@
 				"keyword.operator.alignas",
 				"keyword.operator.instanceof",
 				"keyword.operator.logical.python",
-				"keyword.operator.wordlike"
+				"keyword.operator.wordlike",
+				"keyword.other.unit"
 			],
 			"settings": {
-				"foreground": "#FF7B72"
-			}
-		},
-		{
-			"scope": "keyword.other.unit",
-			"settings": {
-				"foreground": "#B5CEA8"
+				"foreground": "#ff7291"
 			}
 		},
 		{
@@ -1030,7 +1010,7 @@
 				"entity.name.operator"
 			],
 			"settings": {
-				"foreground": "#C586C0"
+				"foreground": "#ff7291"
 			}
 		},
 		{
@@ -1161,25 +1141,25 @@
 		{
 			"scope": "keyword - keyword.operator",
 			"settings": {
-				"foreground": "#FF7B72"
+				"foreground": "#ff7291"
 			}
 		},
 		{
 			"scope": "keyword.control",
 			"settings": {
-				"foreground": "#FF7B72"
+				"foreground": "#ff7291"
 			}
 		},
 		{
 			"scope": "storage",
 			"settings": {
-				"foreground": "#FF7B72"
+				"foreground": "#ff7291"
 			}
 		},
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#FF7B72"
+				"foreground": "#ff7291"
 			}
 		},
 		{
