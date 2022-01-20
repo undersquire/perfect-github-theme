@@ -5,7 +5,7 @@
     "repository": "https://www.github.com/undersquire/perfect-github-theme",
     "publisher": "undersquire",
     "version": "0.0.3",
-    "icon": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+    "icon": "icon.png",
     "engines": {
         "vscode": "^1.63.0"
     },
